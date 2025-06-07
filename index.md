@@ -44,10 +44,11 @@ Det innebär att jag
 Jag är en del av ett agilt, crossfunktionellt team som jobbar med utveckling av Agria-appen. Den riktar
 sig till Agrias kunder där djurägare kan prata med veterinär över videosamtal.
 
-- Urval av projekt:
-  - Satt upp tracking i appen – involverade flera intressenter (utvecklare, UX, PM, testare), samt utvecklade debugging- och testverktyg.
-  - Förbättrad hantering av miljövariabler via AWS Secrets Manager – erfarenhet av IAM, S3, Elastic Beanstalk, EC2, CDK m.m.
-  - Införde nya arbetssätt för git hygiene – förbättrad kodkommunikation på hela företaget.
+Urval av projekt:
+
+- Satt upp tracking i appen – involverade flera intressenter (utvecklare, UX, PM, testare), samt utvecklade debugging- och testverktyg.
+- Förbättrad hantering av miljövariabler via AWS Secrets Manager – erfarenhet av IAM, S3, Elastic Beanstalk, EC2, CDK m.m.
+- Införde nya arbetssätt för git hygiene – förbättrad kodkommunikation på hela företaget.
 
 **Tekniker:** Node, React Native, AWS, SQL, Prisma, Jest, Playwright
 
