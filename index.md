@@ -2,6 +2,8 @@
 
 Stockholm • [ekizean@gmail.com](mailto:ekizean@gmail.com) • +46 735 74 83 30 • [LinkedIn](https://www.linkedin.com/in/ekizean)
 
+---
+
 ## Sammanfattning
 
 Jag är en engagerad och mångsidig utvecklare med sju års erfarenhet av att arbeta i en rad olika projekt och tekniker. Med en öppen och positiv inställning tar jag mig an utmaningar och strävar alltid efter att utvecklas. Jag tar egna initiativ, värdesätter kvalitet i allt jag gör och tror på ett nära samarbete.
