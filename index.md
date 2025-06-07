@@ -1,5 +1,3 @@
-# Simon Ekizean
-
 ### Tech Lead / Fullstack developer
 
 Stockholm | [ekizean@gmail.com](mailto:ekizean@gmail.com) | +46 735 74 83 30 | [LinkedIn](https://www.linkedin.com/in/ekizean)
