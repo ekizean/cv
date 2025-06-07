@@ -21,6 +21,23 @@ Jag är en engagerad och mångsidig utvecklare med sju års erfarenhet av att ar
 
 ### Agria Vet Guide
 
+**Tech Lead**  
+05.2025 –
+
+Jag har fått utökat förtroende och en ny roll som Tech Lead. Teamet består av en PM, en UX-designer, en testare samt fyra andra utvecklare.
+
+Det innebär att jag
+
+- Deltar på möten med andra Tech Leads och beslutsfattare för att tillsammans bestämma den tekniska roadmapen samt fatta större tekniska beslut.
+- Agerar som brygga mellan produkt/design och utveckling
+- Hanterar prioriteringar och tekniska beroenden inom teamet
+- Tar extra ansvar för support och kunskapsdelning
+- Ledde lanseringen av en feature teamet jobbat på i åtta månader
+
+---
+
+### Agria Vet Guide
+
 **Fullstack developer**  
 06.2023 –
 
@@ -79,7 +96,7 @@ Jag är en engagerad och mångsidig utvecklare med sju års erfarenhet av att ar
 **Frontend developer**  
 04.2018 –
 
-- Ansvarat för digital strategi för familjeägd restaurang i Uppsala.
+- Ansvarat för digital strategi för en familjeägd restaurang i Uppsala.
 - Skapat hemsida, logotyp, SEO, sociala medier, Google Analytics, rekrytering.
 - Underhållit sajten i över fem år.
 
