@@ -1,16 +1,14 @@
 # Simon Ekizean
 
-Fullstack developer  
-Stockholm  
-0735 74 83 30  
-[ekizean@gmail.com](mailto:ekizean@gmail.com)  
-[linkedin.com/in/ekizean](https://www.linkedin.com/in/ekizean)
+### Tech Lead / Fullstack developer
+
+Stockholm | [ekizean@gmail.com](mailto:ekizean@gmail.com) | +46 735 74 83 30 | [LinkedIn](https://www.linkedin.com/in/ekizean)
 
 ---
 
 ## Sammanfattning
 
-Jag är en engagerad och mångsidig utvecklare med sex års erfarenhet av att arbeta i en rad olika projekt och tekniker. Med en öppen och positiv inställning tar jag mig an utmaningar och strävar alltid efter att utvecklas. Jag tar egna initiativ, värdesätter kvalitet i allt jag gör och tror på ett nära samarbete.
+Jag är en engagerad och mångsidig utvecklare med sju års erfarenhet av att arbeta i en rad olika projekt och tekniker. Med en öppen och positiv inställning tar jag mig an utmaningar och strävar alltid efter att utvecklas. Jag tar egna initiativ, värdesätter kvalitet i allt jag gör och tror på ett nära samarbete.
 
 ---
 
@@ -32,8 +30,9 @@ Jag är en engagerad och mångsidig utvecklare med sex års erfarenhet av att ar
 - Projekt:
   - Satt upp tracking i appen – involverade flera intressenter (utvecklare, UX, PM, testare), samt utvecklade debugging- och testverktyg.
   - Förbättrad hantering av miljövariabler via AWS Secrets Manager – erfarenhet av IAM, S3, Elastic Beanstalk, EC2 m.m.
-  - Införde nya arbetssätt för git hygiene – förbättrad kodkommunikation i teamet.  
-    **Tekniker:** Node, React Native, AWS, SQL, Prisma, Jest, Playwright
+  - Införde nya arbetssätt för git hygiene – förbättrad kodkommunikation i teamet.
+
+**Tekniker:** Node, React Native, AWS, SQL, Prisma, Jest, Playwright
 
 ---
 
@@ -45,8 +44,9 @@ Jag är en engagerad och mångsidig utvecklare med sex års erfarenhet av att ar
 - Arbetade med livevideoprodukt som integreras i e-handel för en personligare shoppingupplevelse.
 - Projekt:
   - "Call Routing"-feature: användare ställer sig i kö via widget → data i Firebase → Pub/Sub → App Engine → Cloud Tasks → FCM → agent. Trackning i Splunk.
-  - Boka videosamtal: byggde integrationslager mot schemaläggnings-API samt frontend-implementation.  
-    **Tekniker:** Node, React, GCP, BigQuery, Dataform, Splunk
+  - Boka videosamtal: byggde integrationslager mot schemaläggnings-API samt frontend-implementation.
+
+**Tekniker:** Node, React, GCP, BigQuery, Dataform, Splunk
 
 ---
 
@@ -57,8 +57,9 @@ Jag är en engagerad och mångsidig utvecklare med sex års erfarenhet av att ar
 
 - Utvecklade affärssystem kring Salesforce för Sveriges stora tidningar (DN, DI, Expressen).
 - Arbetade i stort team med ekonomi och systemspecialister, mycket mobbprogrammering.
-- Utveckling i Apex och Node-microservices.  
-  **Tekniker:** Node, Apex, SQL
+- Utveckling i Apex och Node-microservices.
+
+**Tekniker:** Node, Apex, SQL
 
 ---
 
@@ -69,8 +70,9 @@ Jag är en engagerad och mångsidig utvecklare med sex års erfarenhet av att ar
 
 - Deltog i traineeprogram "Claremont Accelerate" – React, SQL, inhouse-projekt.
 - Projektledarroll med kravställning, testmiljö, implementation.
-- Utvecklingsuppdrag inom e-handel, därefter Bonnier News.  
-  **Tekniker:** React, SQL
+- Utvecklingsuppdrag inom e-handel, därefter Bonnier News.
+
+**Tekniker:** React, SQL
 
 ---
 
@@ -81,8 +83,9 @@ Jag är en engagerad och mångsidig utvecklare med sex års erfarenhet av att ar
 
 - Ansvarat för digital strategi för familjeägd restaurang i Uppsala.
 - Skapat hemsida, logotyp, SEO, sociala medier, Google Analytics, rekrytering.
-- Underhållit sajten i över fem år.  
-  **Tekniker:** Gatsby, React, Projektledning, Google Analytics
+- Underhållit sajten i över fem år.
+
+**Tekniker:** Gatsby, React, Projektledning, Google Analytics
 
 ---
 
@@ -92,8 +95,9 @@ Jag är en engagerad och mångsidig utvecklare med sex års erfarenhet av att ar
 02.2017 – 04.2018
 
 - Ansvarade ensam för försäljning av mjukvaruuppdrag.
-- Lärde mig grunder i webbutveckling via interna projekt och onlinekurser.  
-  **Tekniker:** JavaScript, HTML, CSS
+- Lärde mig grunder i webbutveckling via interna projekt och onlinekurser.
+
+**Tekniker:** JavaScript, HTML, CSS
 
 ---
 
