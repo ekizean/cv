@@ -1,0 +1,30 @@
+@import "{{ site.theme }}";
+
+// Custom styles
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+}
+
+// Specific customization for main title
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+
+// Secondary headings
+h2 {
+  font-size: 1.8em;
+  color: #2c3e50;
+}
+
+// Smaller headings
+h3 {
+  font-size: 1.4em;
+  color: #34495e;
+}
