@@ -49,7 +49,7 @@ Urval av projekt:
 - Förbättrad hantering av miljövariabler via AWS Secrets Manager – erfarenhet av IAM, S3, Elastic Beanstalk, EC2, CDK m.m.
 - Införde nya arbetssätt för git hygiene – förbättrad kodkommunikation på hela företaget.
 
-**Tekniker:** Node, React Native, AWS, SQL, Prisma, Jest, Playwright
+**Tekniker:** TypeScript, Node, React Native, AWS, SQL, Prisma, Jest, Playwright, Drizzle
 
 ---
 
