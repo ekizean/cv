@@ -28,11 +28,10 @@ Jag har fått utökat förtroende och en ny roll som Tech Lead. Teamet består a
 
 Det innebär att jag
 
-- Tillsammans med andra Tech Leads och beslutsfattare bestämmer den tekniska roadmapen samt fatta större tekniska beslut.
+- Tillsammans med andra Tech Leads och beslutsfattare bestämmer den tekniska roadmapen samt fattar större tekniska beslut.
 - Agerar som brygga mellan produkt/design och utveckling
 - Hanterar prioriteringar och tekniska beroenden inom teamet
 - Tar extra ansvar för support och kunskapsdelning
-- Ledde lanseringen av en feature som teamet jobbat på i åtta månader
 
 ---
 
