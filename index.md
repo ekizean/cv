@@ -24,11 +24,11 @@ Jag är en engagerad och mångsidig utvecklare med åtta års erfarenhet av att 
 **Tech Lead**  
 05.2025 –
 
-Jag har fått utökat förtroende och en ny roll som Tech Lead. Teamet består av en PM, en UX-designer, en testare samt fyra andra utvecklare.
+Jag har fått utökat förtroende och en ny roll som Tech Lead. Utöver mig består teamet av en PM, en UX-designer, en testare samt fyra andra utvecklare.
 
 Det innebär att jag
 
-- Tillsammans med andra Tech Leads och beslutsfattare bestämmer den tekniska roadmapen samt fattar större tekniska beslut.
+- Tillsammans med andra Tech Leads och beslutsfattare bestämmer den tekniska roadmapen samt fattar större tekniska beslut för bolaget.
 - Agerar som brygga mellan produkt/design och utveckling
 - Hanterar prioriteringar och tekniska beroenden inom teamet
 - Tar extra ansvar för support och kunskapsdelning
